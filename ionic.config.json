@@ -1,5 +1,8 @@
 {
   "name": "photoViewer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
   "type": "angular"
 }
