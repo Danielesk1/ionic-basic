@@ -1,7 +1,12 @@
 # ionic-basic
-Ionic App using Capacitor
+**Ionic App using Capacitor**
 
+- Installing Dependencies
 ```
+npm i -g @ionic/cli
 npm i
+```
+- Run it
+```
 ionic serve
 ```
